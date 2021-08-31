@@ -1,0 +1,40 @@
+/* Todo app style */
+body {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    background-color: wheat;
+}
+
+.text-end {
+    color: black;
+    font-family: lobster;
+}
+h1 {
+    text-align: center;
+    padding: 10px;
+    color: black;
+    font-family: lobster;
+    background-color: rgba(218, 196, 155, 0.4);
+}
+.red-text {
+    color: rebeccapurple;
+    font-family: lobster;
+}
+h6 {
+    font-size: 10px;
+    color: black;
+    font-family: monospace;
+    border-color: rgb(218, 196, 155);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    width: 275px;
+}
+h3 {
+    font-size: 20px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.silver-background {
+    background-color: rgba(218, 196, 155, 0.4);
+}
